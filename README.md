@@ -1,3 +1,3 @@
 # Projeto_CV_roadmap
 
-URL do projeto: [https://github.com/FrankRibe/Projeto_CV_roadmap.git](https://github.com/FrankRibe/Projeto_CV_roadmap)
+https://roadmap.sh/projects/single-page-cv
